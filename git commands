@@ -1,0 +1,9 @@
+----------------COMMITING CHANGES----------------
+
+-git add .
+-git commit -m "Enter message here"
+
+
+------------PUSHING TO ONLINE REPOSITORY---------
+
+-git push -u origin master
